@@ -1,0 +1,22 @@
+# Dependencies
+node_modules/
+
+# Production build
+dist/
+
+# Environment variables
+.env
+.env*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Uploaded receipts (keep directory via .gitkeep)
+uploads/receipts/*
+!uploads/receipts/.gitkeep
+
+# OS generated
+.DS_Store
+Thumbs.db
