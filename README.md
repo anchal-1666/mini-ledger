@@ -98,7 +98,7 @@ react_native_assignment/
 
 1. Open a terminal in `./backend`:
    ```bash
-   cd backend
+   cd mini-ledger
    ```
 2. Install dependencies:
    ```bash
